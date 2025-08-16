@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)	[:zap: Dynamically generated stats for your github readmes]
 - [favorite-link](https://github.com/guanguans/favorite-link)	[❤️ 每天收集喜欢的开源项目。]
 - [LunaTV](https://github.com/MoonTechLab/LunaTV)	[No description available.]
 - [LSPosed](https://github.com/LSPosed/LSPosed)	[LSPosed Framework]
@@ -99,4 +100,3 @@
 - [ManifestAutoUpdate](https://github.com/BlankTMing/ManifestAutoUpdate)	[No description available.]
 - [Macast](https://github.com/xfangfang/Macast)	[Macast is a cross-platform application which using mpv as DLNA Media Renderer.]
 - [aya](https://github.com/liriliri/aya)	[Android ADB desktop app]
-- [cnNetTool](https://github.com/sinspired/cnNetTool)	[全面解锁Github，解决加载慢、无法访问等问题！解锁Google翻译，支持chrome网页翻译及插件；解锁tinyMediaManager影视刮削；解锁划词翻译。自动设置最佳DNS服务器，Enjoy❤]
