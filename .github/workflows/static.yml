@@ -1,43 +1,60 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: 部署静态内容到 Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write  # 修改为 write 权限
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
+  build-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout
+      - name: 检出仓库代码
         uses: actions/checkout@v4
-      - name: Setup Pages
+      
+      - name: 设置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: 安装项目依赖
+        run: npm ci
+      
+      - name: 构建项目
+        run: |
+          npm run build
+          # 验证构建目录存在
+          if [ ! -d "dist" ]; then
+            echo "::error::构建失败：dist 目录不存在"
+            exit 1
+          fi
+      
+      # 调试步骤：显示目录结构
+      - name: 检查文件结构
+        run: ls -R
+      
+      - name: 配置 Pages 环境
         uses: actions/configure-pages@v4
-      - name: Upload artifact
+      
+      - name: 上传构建产物
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
+          path: ${{ github.workspace }}/dist  # 使用绝对路径
+      
+      - name: 部署到 GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
