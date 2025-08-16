@@ -1,7 +1,7 @@
 name: Java Monthly Update
 on:
   schedule:
-    - cron: '0 12 1 * *'  # 每月1号12:00（UTC）
+    - cron: '0 12 * * *'  # 每月1号12:00（UTC）
   push:
     branches:
       - main
