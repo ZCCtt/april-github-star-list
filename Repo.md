@@ -1,5 +1,10 @@
 # ZCCtt Starred Repositories
 
+- [minaplay](https://github.com/nepsyn/minaplay)	[MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。]
+- [mediax](https://github.com/scenery/mediax)	[A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。]
+- [go-bangumi](https://github.com/eventlOwOp/go-bangumi)	[支持一起看的家庭番剧影院]
+- [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload)	[NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。]
+- [KNKPAnime](https://github.com/KNKPA/KNKPAnime)	[KNKPAnime：支持多番剧源与弹幕的看番软件。]
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)	[:zap: Dynamically generated stats for your github readmes]
 - [favorite-link](https://github.com/guanguans/favorite-link)	[❤️ 每天收集喜欢的开源项目。]
 - [LunaTV](https://github.com/MoonTechLab/LunaTV)	[No description available.]
@@ -95,8 +100,3 @@
 - [utao](https://github.com/VonChange/utao)	[油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台]
 - [iwrqk](https://github.com/iwrqk/iwrqk)	[Unofficial Iwara Flutter Client]
 - [ManifestAutoUpdate](https://github.com/Auiowu/ManifestAutoUpdate)	[一个steam清单缓存仓库]
-- [SteamManifestCache](https://github.com/pjy612/SteamManifestCache)	[Steam Depot Manifest Files Cache]
-- [Onekey](https://github.com/ikunshare/Onekey)	[Onekey Steam Depot Manifest Downloader]
-- [ManifestAutoUpdate](https://github.com/BlankTMing/ManifestAutoUpdate)	[No description available.]
-- [Macast](https://github.com/xfangfang/Macast)	[Macast is a cross-platform application which using mpv as DLNA Media Renderer.]
-- [aya](https://github.com/liriliri/aya)	[Android ADB desktop app]
