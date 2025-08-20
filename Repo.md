@@ -1,5 +1,7 @@
 # ZCCtt Starred Repositories
 
+- [pagemagic](https://github.com/khaledh/pagemagic)	[A Chrome extension that uses AI to customize the appearance of any web page]
+- [everything-ai-chat](https://github.com/MaskerPRC/everything-ai-chat)	[一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。]
 - [Jackett](https://github.com/Jackett/Jackett)	[API Support for your favorite torrent trackers]
 - [vfox](https://github.com/version-fox/vfox)	[A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more]
 - [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)	[Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.]
@@ -98,5 +100,3 @@
 - [pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer)	[Yet Another Pixiv Illust&Novel Viewer. 又一个 Pixiv 免登录阅览工具，提供 pixiv 的插画、动图、漫画和小说等作品的在线浏览，适配多端样式，提供多种浏览布局选择，支持 PWA 安装，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。]
 - [stb](https://github.com/setube/stb)	[Stb图床 - 现代化图片托管解决方案]
 - [bitplay](https://github.com/aculix/bitplay)	[Stream video torrents in your web browser with ease.]
-- [HuYaTv](https://github.com/jayjd/HuYaTv)	[聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机]
-- [billd-desk](https://github.com/galaxy-s10/billd-desk)	[基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制]
