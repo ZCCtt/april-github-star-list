@@ -1,5 +1,8 @@
 # ZCCtt Starred Repositories
 
+- [fntv-electron](https://github.com/QiaoKes/fntv-electron)	[飞牛影视PC版 electron封装]
+- [gpt-load](https://github.com/tbphp/gpt-load)	[智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.]
+- [sh](https://github.com/kejilion/sh)	[KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!]
 - [komari](https://github.com/komari-monitor/komari)	[A simple server monitor tool.]
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)	[✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify]
 - [n8n](https://github.com/n8n-io/n8n)	[Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]
@@ -95,8 +98,5 @@
 - [illa-helper](https://github.com/xiao-zaiyi/illa-helper)	[浸入式学语言助手 (Immersive Language Learning Assistant)]
 - [cloudstream](https://github.com/recloudstream/cloudstream)	[Android app for streaming and downloading media.]
 - [cfdata](https://github.com/Kwisma/cfdata)	[一款专为 Cloudflare CDN 网络打造的 IP 扫描与性能测试工具，帮助你快速筛选高质量节点，为 cfnat 等工具提供坚实的网络基础。]
-- [XMBOX](https://github.com/Tosencen/XMBOX)	[练习的一个看片儿的盒子软件，只有手机版的包]
+- [XMBOX](https://github.com/Tosencen/XMBOX)	[练习的一个看片儿的空盒子软件，需自行配置源]
 - [EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)	[EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。  EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.]
-- [hubproxy](https://github.com/sky22333/hubproxy)	[基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。]
-- [OpenSpeedy](https://github.com/game1024/OpenSpeedy)	[🎮 An open-source game speed modifier.[一款开源的游戏变速器]]
-- [NeatShift](https://github.com/BytexGrid/NeatShift)	[A modern Windows file organization tool with symbolic link support]
