@@ -1,5 +1,8 @@
 # ZCCtt Starred Repositories
 
+- [Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation)	[Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.]
+- [moonlight-android](https://github.com/WACrown/moonlight-android)	[GameStream client for Android]
+- [moonlight-android](https://github.com/qiin2333/moonlight-android)	[GameStream client for Android]
 - [fntv-electron](https://github.com/QiaoKes/fntv-electron)	[飞牛影视PC版 electron封装]
 - [gpt-load](https://github.com/tbphp/gpt-load)	[智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.]
 - [sh](https://github.com/kejilion/sh)	[KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!]
@@ -90,13 +93,10 @@
 - [server](https://github.com/bitwarden/server)	[Bitwarden infrastructure/backend (API, database, Docker, etc).]
 - [RemoteFingerUnlock](https://github.com/czqu/RemoteFingerUnlock)	["RemoteFingerUnlock" not only allows you to log in to your computer using fingerprint scanning on your mobile phone, but also enables you to control various functions such as powering on, shutting down, standby, and screen lock. Come and experience it!]
 - [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader)	[一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。]
-- [telegram-search](https://github.com/groupultra/telegram-search)	[🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.]
+- [telegram-search](https://github.com/groupultra/telegram-search)	[🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.]
 - [MixFile](https://github.com/InvertGeek/MixFile)	[使用图床储存任意文件]
 - [subconverter](https://github.com/asdlokj1qpi233/subconverter)	[About Utility to convert between various subscription format.Support anytls、mieru、hy2、hy and vless for singbox and clash meta.original git: https://github.com/asdlokj1qpi23/subconverter]
 - [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)	[Pixiv第三方Android客户端]
 - [Livelist](https://github.com/Rivens7/Livelist)	[IPTV-ipv6直播源同步及常看直播]
 - [illa-helper](https://github.com/xiao-zaiyi/illa-helper)	[浸入式学语言助手 (Immersive Language Learning Assistant)]
 - [cloudstream](https://github.com/recloudstream/cloudstream)	[Android app for streaming and downloading media.]
-- [cfdata](https://github.com/Kwisma/cfdata)	[一款专为 Cloudflare CDN 网络打造的 IP 扫描与性能测试工具，帮助你快速筛选高质量节点，为 cfnat 等工具提供坚实的网络基础。]
-- [XMBOX](https://github.com/Tosencen/XMBOX)	[练习的一个看片儿的空盒子软件，需自行配置源]
-- [EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)	[EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。  EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.]
