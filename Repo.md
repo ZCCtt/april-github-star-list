@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [pure_live](https://github.com/liuchuancong/pure_live)	[纯粹直播:哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc/M38自定义源应有尽有。]
 - [Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation)	[Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.]
 - [moonlight-android](https://github.com/WACrown/moonlight-android)	[GameStream client for Android]
 - [moonlight-android](https://github.com/qiin2333/moonlight-android)	[GameStream client for Android]
@@ -99,4 +100,3 @@
 - [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)	[Pixiv第三方Android客户端]
 - [Livelist](https://github.com/Rivens7/Livelist)	[IPTV-ipv6直播源同步及常看直播]
 - [illa-helper](https://github.com/xiao-zaiyi/illa-helper)	[浸入式学语言助手 (Immersive Language Learning Assistant)]
-- [cloudstream](https://github.com/recloudstream/cloudstream)	[Android app for streaming and downloading media.]
