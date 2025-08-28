@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [CyberChef](https://github.com/gchq/CyberChef)	[The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis]
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)	[一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制]
 - [moonlight-android](https://github.com/ClassicOldSong/moonlight-android)	[GameStream client for Android]
 - [Apollo](https://github.com/ClassicOldSong/Apollo)	[Sunshine fork - The easiest way to stream with the native resolution of your client device]
@@ -9,7 +10,7 @@
 - [Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation)	[Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.]
 - [moonlight-android](https://github.com/WACrown/moonlight-android)	[GameStream client for Android]
 - [moonlight-android](https://github.com/qiin2333/moonlight-android)	[GameStream client for Android]
-- [gpt-load](https://github.com/tbphp/gpt-load)	[智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.]
+- [gpt-load](https://github.com/tbphp/gpt-load)	[Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。]
 - [sh](https://github.com/kejilion/sh)	[KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!]
 - [komari](https://github.com/komari-monitor/komari)	[A simple server monitor tool.]
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)	[✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify]
@@ -99,4 +100,3 @@
 - [RemoteFingerUnlock](https://github.com/czqu/RemoteFingerUnlock)	["RemoteFingerUnlock" not only allows you to log in to your computer using fingerprint scanning on your mobile phone, but also enables you to control various functions such as powering on, shutting down, standby, and screen lock. Come and experience it!]
 - [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader)	[一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。]
 - [telegram-search](https://github.com/groupultra/telegram-search)	[🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.]
-- [MixFile](https://github.com/InvertGeek/MixFile)	[使用图床储存任意文件]
