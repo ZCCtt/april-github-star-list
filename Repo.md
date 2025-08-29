@@ -1,5 +1,9 @@
 # ZCCtt Starred Repositories
 
+- [Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules)	[分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人]
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)	[所有小初高、大学PDF教材。]
+- [NanaZip](https://github.com/M2Team/NanaZip)	[The 7-Zip derivative intended for the modern Windows experience]
+- [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd)	[7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard]
 - [CyberChef](https://github.com/gchq/CyberChef)	[The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis]
 - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)	[一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制]
 - [moonlight-android](https://github.com/ClassicOldSong/moonlight-android)	[GameStream client for Android]
@@ -96,7 +100,3 @@
 - [FreeBox](https://github.com/kknifer7/FreeBox)	[TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展]
 - [best-windows-apps](https://github.com/stackia/best-windows-apps)	[推荐好用、优秀的 Windows 应用]
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)	[🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.]
-- [server](https://github.com/bitwarden/server)	[Bitwarden infrastructure/backend (API, database, Docker, etc).]
-- [RemoteFingerUnlock](https://github.com/czqu/RemoteFingerUnlock)	["RemoteFingerUnlock" not only allows you to log in to your computer using fingerprint scanning on your mobile phone, but also enables you to control various functions such as powering on, shutting down, standby, and screen lock. Come and experience it!]
-- [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader)	[一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。]
-- [telegram-search](https://github.com/groupultra/telegram-search)	[🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.]
