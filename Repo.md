@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)	[移动端的抽象b站音乐播放器]
 - [Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules)	[分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人]
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)	[所有小初高、大学PDF教材。]
 - [NanaZip](https://github.com/M2Team/NanaZip)	[The 7-Zip derivative intended for the modern Windows experience]
@@ -99,4 +100,3 @@
 - [OrionTV](https://github.com/orion-lib/OrionTV)	[一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。]
 - [FreeBox](https://github.com/kknifer7/FreeBox)	[TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展]
 - [best-windows-apps](https://github.com/stackia/best-windows-apps)	[推荐好用、优秀的 Windows 应用]
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)	[🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.]
