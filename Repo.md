@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [Cinetry](https://github.com/gstory0404/Cinetry)	[Cinetry播放器，Jellyfin、Emby、CMS、IPTV、Webdav、alist、openlist数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV]
 - [AiNiee](https://github.com/NEKOparapa/AiNiee)	[一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。]
 - [pick-anime-cool](https://github.com/Ezer015/pick-anime-cool)	[Bangumi 多标签搜索 | Better Bangumi Search]
 - [Proxy-client-collection](https://github.com/snow-moonlight1/Proxy-client-collection)	[代理软件收集处/Collection of proxy clients]
@@ -21,6 +22,7 @@
 - [Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation)	[Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.]
 - [moonlight-android](https://github.com/WACrown/moonlight-android)	[GameStream client for Android]
 - [moonlight-android](https://github.com/qiin2333/moonlight-android)	[Turn your Android device into a powerful game streaming terminal! Gawr! ✨]
+- [fntv-electron](https://github.com/QiaoKes/fntv-electron)	[飞牛影视PC版 electron封装]
 - [gpt-load](https://github.com/tbphp/gpt-load)	[Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。]
 - [sh](https://github.com/kejilion/sh)	[KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!]
 - [komari](https://github.com/komari-monitor/komari)	[A simple server monitor tool.]
@@ -72,7 +74,7 @@
 - [AutoFilm](https://github.com/Akimio521/AutoFilm)	[一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报]
 - [website](https://github.com/agefanscom/website)	[AGE animation official website URL release page（AGE动漫官网网址发布页）]
 - [LightMirrors](https://github.com/NoCLin/LightMirrors)	[LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.]
-- [DockerHub](https://github.com/dongyubin/DockerHub)	[2025年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器]
+- [DockerHub](https://github.com/dongyubin/DockerHub)	[2025年9月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器]
 - [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io)	[这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。]
 - [docker_image_pusher](https://github.com/tech-shrimp/docker_image_pusher)	[使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用]
 - [message-pusher](https://github.com/songquanpeng/message-pusher)	[搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用]
@@ -98,5 +100,3 @@
 - [ecs](https://github.com/spiritLHLS/ecs)	[VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs]
 - [XXPermissions](https://github.com/getActivity/XXPermissions)	[Android Permissions Framework, Adapt to Android 16]
 - [AppListViewer](https://github.com/LuoYunXi0407/AppListViewer)	[A demo bypassing Applist Permission on Custom ROM and viewing apps with applist permission]
-- [amy4Server](https://github.com/mmxdxmm/amy4Server)	[No description available.]
-- [ScreenFilter](https://github.com/cjyyx/ScreenFilter)	[开源安卓app，滤镜护眼防频闪，可以降低 OLED 屏幕频闪]
