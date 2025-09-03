@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [MeteorMail](https://github.com/lbjlaq/MeteorMail)	[MeteorMail - 一款基于Node.js的自托管临时邮箱服务，提供即时创建、即用即走的临时邮箱，保护隐私，避免垃圾邮件，支持验证码接收。Self-hosted temporary email service based on Node.js for privacy protection.]
 - [Cinetry](https://github.com/gstory0404/Cinetry)	[Cinetry播放器，Jellyfin、Emby、CMS、IPTV、Webdav、alist、openlist数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV]
 - [AiNiee](https://github.com/NEKOparapa/AiNiee)	[一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。]
 - [pick-anime-cool](https://github.com/Ezer015/pick-anime-cool)	[Bangumi 多标签搜索 | Better Bangumi Search]
@@ -30,7 +31,7 @@
 - [n8n](https://github.com/n8n-io/n8n)	[Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)	[An app for managing github starred repositories. ]
 - [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)	[一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄]
-- [60s](https://github.com/vikiboss/60s)	[⏰ 60s API，每天 60 秒看世界、壁纸、小红书/B站/微博/抖音/知乎热搜、翻译、Epic 游戏、转二维码、哪吒票房、KFC 段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署]
+- [60s](https://github.com/vikiboss/60s)	[⏰ 60s API，每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、翻译、壁纸、Epic 游戏、二维码、哪吒票房、KFC 段子｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署]
 - [FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)	[3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。]
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)	[🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool]
 - [drawnix](https://github.com/plait-board/drawnix)	[开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.]
@@ -99,4 +100,3 @@
 - [ecs](https://github.com/oneclickvirt/ecs)	[VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.]
 - [ecs](https://github.com/spiritLHLS/ecs)	[VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs]
 - [XXPermissions](https://github.com/getActivity/XXPermissions)	[Android Permissions Framework, Adapt to Android 16]
-- [AppListViewer](https://github.com/LuoYunXi0407/AppListViewer)	[A demo bypassing Applist Permission on Custom ROM and viewing apps with applist permission]
