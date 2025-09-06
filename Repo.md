@@ -1,5 +1,10 @@
 # ZCCtt Starred Repositories
 
+- [weakpass](https://github.com/zzzteph/weakpass)	[Weakpass collection of tools for bruteforce and hashcracking]
+- [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)	[WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典]
+- [ConvertX](https://github.com/C4illin/ConvertX)	[💾 Self-hosted online file converter. Supports 1000+ formats ⚙️]
+- [Xget](https://github.com/xixu-me/Xget)	[超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high performance, secure, all-in-one open-source resource acceleration engine. Significantly outperforms traditional accelerators, providing unified and efficient acceleration across multiple platforms]
+- [cloudreve](https://github.com/cloudreve/cloudreve)	[🌩 Self-hosted file management and sharing system, supports multiple storage providers]
 - [PikPakBypass](https://github.com/oureveryday/PikPakBypass)	[跳过PikPak区域限制]
 - [karing](https://github.com/KaringX/karing)	[Simple & Powerful proxy utility, Support routing rules for clash/sing-box]
 - [cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo)	[快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等]
@@ -47,7 +52,7 @@
 - [gpt-load](https://github.com/tbphp/gpt-load)	[Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。]
 - [sh](https://github.com/kejilion/sh)	[KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!]
 - [komari](https://github.com/komari-monitor/komari)	[A simple server monitor tool.]
-- [AstrBot](https://github.com/AstrBotDevs/AstrBot)	[✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify]
+- [AstrBot](https://github.com/AstrBotDevs/AstrBot)	[✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify]
 - [n8n](https://github.com/n8n-io/n8n)	[Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.]
 - [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)	[An app for managing github starred repositories. ]
 - [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)	[一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄]
@@ -95,8 +100,3 @@
 - [AutoFilm](https://github.com/Akimio521/AutoFilm)	[一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报]
 - [website](https://github.com/agefanscom/website)	[AGE animation official website URL release page（AGE动漫官网网址发布页）]
 - [LightMirrors](https://github.com/NoCLin/LightMirrors)	[LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.]
-- [DockerHub](https://github.com/dongyubin/DockerHub)	[2025年9月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器]
-- [CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io)	[这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。]
-- [docker_image_pusher](https://github.com/tech-shrimp/docker_image_pusher)	[使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用]
-- [message-pusher](https://github.com/songquanpeng/message-pusher)	[搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用]
-- [ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)	[✨ Rust 版 ServerStatus 探针、威力加强版]
