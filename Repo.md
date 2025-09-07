@@ -1,5 +1,7 @@
 # ZCCtt Starred Repositories
 
+- [owncast](https://github.com/owncast/owncast)	[Take control over your live stream video by running it yourself.  Streaming + chat out of the box.]
+- [Sub-Store](https://github.com/sub-store-org/Sub-Store)	[Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!]
 - [weakpass](https://github.com/zzzteph/weakpass)	[Weakpass collection of tools for bruteforce and hashcracking]
 - [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)	[WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典]
 - [ConvertX](https://github.com/C4illin/ConvertX)	[💾 Self-hosted online file converter. Supports 1000+ formats ⚙️]
@@ -98,5 +100,3 @@
 - [Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)	[Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.]
 - [tsdm_client](https://github.com/realth000/tsdm_client)	[天使动漫论坛官方跨平台客户端]
 - [AutoFilm](https://github.com/Akimio521/AutoFilm)	[一个为Emby、Jellyfin提供服务的小工具：生成strm、动漫追番、绘制媒体库海报]
-- [website](https://github.com/agefanscom/website)	[AGE animation official website URL release page（AGE动漫官网网址发布页）]
-- [LightMirrors](https://github.com/NoCLin/LightMirrors)	[LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.]
