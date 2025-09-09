@@ -1,7 +1,10 @@
 # ZCCtt Starred Repositories
 
+- [QuickClipboard](https://github.com/mosheng1/QuickClipboard)	[No description available.]
+- [OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV)	[Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改]
+- [cf2dns](https://github.com/gacjie/cf2dns)	[cf2dns宝塔插件版]
 - [infio-copilot](https://github.com/infiolab/infio-copilot)	[A Cursor-inspired AI assistant for Obsidian that offers smart autocomplete and interactive chat with your selected notes]
-- [super-agent-party](https://github.com/heshengtao/super-agent-party)	[⭐零门槛的3D桌面伴侣！支持接入QQ/B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ/Bilibili live streaming, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, Home Assistant, Dify, MCP, A2A, ComfyUI, more!]
+- [super-agent-party](https://github.com/heshengtao/super-agent-party)	[⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, Home Assistant, Dify, MCP, A2A, ComfyUI, more!]
 - [s-ui](https://github.com/alireza0/s-ui)	[An advanced Web Panel • Built for SagerNet/Sing-Box]
 - [cfnew](https://github.com/byJoey/cfnew)	[No description available.]
 - [FreeBili](https://github.com/rango886/FreeBili)	[自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具]
@@ -97,6 +100,3 @@
 - [LunaTV](https://github.com/MoonTechLab/LunaTV)	[本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源]
 - [LSPosed](https://github.com/LSPosed/LSPosed)	[LSPosed Framework]
 - [LSPosed](https://github.com/JingMatrix/LSPosed)	[LSPosed Framework resuscitated]
-- [HuLa](https://github.com/HuLaSpark/HuLa)	[🍀HuLa is a cross-platform instant messaging desktop application based on Tauri v2+Vue3, compatible with Windows, MacOS, Linux, Android, IOS  （HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）]
-- [Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan)	[CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP]
-- [BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard)	[A wizard to facilitate BPB Panel deployment and management.]
