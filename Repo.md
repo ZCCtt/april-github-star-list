@@ -1,5 +1,7 @@
 # ZCCtt Starred Repositories
 
+- [NagramX](https://github.com/risin42/NagramX)	[A variant of Nagram with additional features.]
+- [TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)	[一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。]
 - [brave-browser](https://github.com/brave/brave-browser)	[Brave browser for Android, iOS, Linux, macOS, Windows.]
 - [mullvad-browser](https://github.com/mullvad/mullvad-browser)	[Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad]
 - [vnt](https://github.com/vnt-dev/vnt)	[An efficient VPN. 简便高效的异地组网、内网穿透工具]
@@ -98,5 +100,3 @@
 - [AnyPortal](https://github.com/AnyPortal/AnyPortal)	[v2ray, xray, sing-box, clash, mihomo... GUI for Windows, macOS, Linux, Android]
 - [april-github-star-list](https://github.com/april-projects/april-github-star-list)	[这是一个 可以从 Github 获取指定用户的 Star 仓库列表，并将其输出为 Markdown 格式的文件，使用 GitHub Action 自动运行，作为备份。]
 - [minaplay](https://github.com/nepsyn/minaplay)	[MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。]
-- [mediax](https://github.com/scenery/mediax)	[A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。]
-- [go-bangumi](https://github.com/eventlOwOp/go-bangumi)	[支持一起看的家庭番剧影院]
