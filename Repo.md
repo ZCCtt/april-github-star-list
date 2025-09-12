@@ -1,5 +1,7 @@
 # ZCCtt Starred Repositories
 
+- [CF-Workers-BPSUB](https://github.com/cmliu/CF-Workers-BPSUB)	[适配白嫖哥的自定义订阅生成器]
+- [rikkahub](https://github.com/rikkahub/rikkahub)	[RikkaHub is a Android APP that supports for multiple LLM providers.]
 - [NagramX](https://github.com/risin42/NagramX)	[A variant of Nagram with additional features.]
 - [TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)	[一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。]
 - [brave-browser](https://github.com/brave/brave-browser)	[Brave browser for Android, iOS, Linux, macOS, Windows.]
@@ -13,7 +15,7 @@
 - [OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV)	[Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改]
 - [cf2dns](https://github.com/gacjie/cf2dns)	[cf2dns宝塔插件版]
 - [infio-copilot](https://github.com/infiolab/infio-copilot)	[A Cursor-inspired AI assistant for Obsidian that offers smart autocomplete and interactive chat with your selected notes]
-- [super-agent-party](https://github.com/heshengtao/super-agent-party)	[⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, Home Assistant, Dify, MCP, A2A, ComfyUI, more!]
+- [super-agent-party](https://github.com/heshengtao/super-agent-party)	[⭐零门槛的3D桌面伴侣！支持接入QQ、B站直播、RAG、联网、长期记忆、 酒馆角色卡、代码沙盒、表情包、浏览器控制、Dify、 Home Assistant、MCP、A2A、Comfyui、数字人口播等功能！⭐ A 3D desktop companion with zero barriers! Supports integration with QQ, Bilibili live, RAG, web search, long-term memory, sillyTavern Card, code sandbox, meme packs, browser control, HA, Dify, MCP, A2A, ComfyUI,Digital Human broadcast,more!]
 - [s-ui](https://github.com/alireza0/s-ui)	[An advanced Web Panel • Built for SagerNet/Sing-Box]
 - [cfnew](https://github.com/byJoey/cfnew)	[No description available.]
 - [FreeBili](https://github.com/rango886/FreeBili)	[自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具]
@@ -98,5 +100,3 @@
 - [jasmine](https://github.com/ComicSparks/jasmine)	[A comic browser，support Android / iOS / MacOS / Windows / Linux. ]
 - [clashmi](https://github.com/KaringX/clashmi)	[Clash Mihomo for iOS/Android]
 - [AnyPortal](https://github.com/AnyPortal/AnyPortal)	[v2ray, xray, sing-box, clash, mihomo... GUI for Windows, macOS, Linux, Android]
-- [april-github-star-list](https://github.com/april-projects/april-github-star-list)	[这是一个 可以从 Github 获取指定用户的 Star 仓库列表，并将其输出为 Markdown 格式的文件，使用 GitHub Action 自动运行，作为备份。]
-- [minaplay](https://github.com/nepsyn/minaplay)	[MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。]
