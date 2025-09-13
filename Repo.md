@@ -1,5 +1,11 @@
 # ZCCtt Starred Repositories
 
+- [cloud-mail](https://github.com/eoao/cloud-mail)	[cloudflare email 邮箱  临时邮箱 邮件发送 mail]
+- [CF-Workers-VLESS](https://github.com/eooce/CF-Workers-VLESS)	[Running VLESS on cloudflare workers]
+- [deskreen](https://github.com/pavlobu/deskreen)	[Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!]
+- [WAuxiliary_Public](https://github.com/HdShare/WAuxiliary_Public)	[WeChat Auxiliary Source]
+- [ZQ-NewVless](https://github.com/BAYUEQI/ZQ-NewVless)	[一个基于Cloudflare Workers的VLESS代理服务，支持多种出站方式和Web界面配置管理。]
+- [CF-Workers-CheckProxyIP](https://github.com/cmliu/CF-Workers-CheckProxyIP)	[部署在 Cloudflare Workers 上的轻量级 ProxyIP 验证工具。它能够快速、准确地检测代理IP的可用性，帮助用户筛选出有效的代理服务器。]
 - [CF-Workers-BPSUB](https://github.com/cmliu/CF-Workers-BPSUB)	[适配白嫖哥的自定义订阅生成器]
 - [rikkahub](https://github.com/rikkahub/rikkahub)	[RikkaHub is a Android APP that supports for multiple LLM providers.]
 - [NagramX](https://github.com/risin42/NagramX)	[A variant of Nagram with additional features.]
@@ -94,9 +100,3 @@
 - [chsrc](https://github.com/RubyMetric/chsrc)	[chsrc 全平台通用换源工具与框架. Change Source everywhere for every software]
 - [LunaTranslator](https://github.com/HIllya51/LunaTranslator)	[视觉小说翻译器 / Visual Novel Translator]
 - [AGE](https://github.com/xihan123/AGE)	[使用 AGE动漫 API 编写的第三方安卓客户端。]
-- [sakura-animation](https://github.com/peacefulprogram/sakura-animation)	[Android TV版动漫app, 不止是樱花动漫]
-- [helix](https://github.com/helix-editor/helix)	[A post-modern modal text editor.]
-- [pikapika](https://github.com/ComicSparks/pikapika)	[A comic browser，support Android / iOS / MacOS / Windows / Linux.]
-- [jasmine](https://github.com/ComicSparks/jasmine)	[A comic browser，support Android / iOS / MacOS / Windows / Linux. ]
-- [clashmi](https://github.com/KaringX/clashmi)	[Clash Mihomo for iOS/Android]
-- [AnyPortal](https://github.com/AnyPortal/AnyPortal)	[v2ray, xray, sing-box, clash, mihomo... GUI for Windows, macOS, Linux, Android]
