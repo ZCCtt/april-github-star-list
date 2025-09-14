@@ -17,6 +17,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull latest changes
+        run: git pull origin main
+
       - name: Set up JDK 21
         uses: actions/setup-java@v3
         with:
@@ -29,27 +37,15 @@ jobs:
       - name: Run Java Application
         run: java -jar target/april-github-star-list-jar-with-dependencies.jar
 
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Pull latest changes
-        run: git pull origin main --rebase
-
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git add .
           git commit -m "weekly update - $(date +'%Y-%m-%d')" || echo "No changes to commit"
-
-      - name: Push changes
-        run: git push origin main
+          git push origin main
 
       - name: Verify repo.md exists
         id: verify_file
         run: |
-          echo "Current directory: $(pwd)"
-          ls -la
           if [ -f "repo.md" ]; then
             echo "file_exists=true" >> $GITHUB_OUTPUT
             echo "File exists with $(wc -l < repo.md) lines"
