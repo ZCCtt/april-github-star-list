@@ -57,15 +57,11 @@ jobs:
       - name: Send email with repo.md via QQ SMTP
         uses: dawidd6/action-send-mail@v3
         with:
-          # QQ邮箱SMTP服务器配置
           server_address: smtp.qq.com
-          server_port: 465  # QQ邮箱SSL端口
-          # 安全连接类型
+          server_port: 465
           secure: true
-          # 登录信息 - 使用Secrets保护敏感信息
           username: ${{ secrets.QQ_EMAIL }}
           password: ${{ secrets.QQ_EMAIL_AUTHORIZATION_CODE }}
-          # 邮件内容
           subject: 'Weekly Java Update - repo.md Report'
           body: |
             Hello,
@@ -75,7 +71,6 @@ jobs:
             此邮件由 GitHub Actions 自动发送。
             
             生成时间: ${{ github.event.repository.updated_at }}
-          to: ${{ secrets.EMAIL_TO }}  # 收件人邮箱
-          from: ${{ secrets.QQ_EMAIL }}  # 发件人邮箱(必须与登录邮箱一致)
-          # 附加repo.md文件
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.QQ_EMAIL }}
           attachments: repo.md
