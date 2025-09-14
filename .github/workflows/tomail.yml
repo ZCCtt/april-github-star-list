@@ -14,7 +14,7 @@ jobs:
   build-and-update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Configure Git
@@ -47,23 +47,23 @@ jobs:
         run: |
           echo "Files after running Java application:"
           ls -la
-          echo "Checking for repo.md:"
-          if [ -f "repo.md" ]; then
-            echo "repo.md found with $(wc -l < repo.md) lines"
-            head -n 5 repo.md
+          echo "Checking for Repo.md:"
+          if [ -f "Repo.md" ]; then
+            echo "Repo.md found with $(wc -l < Repo.md) lines"
+            head -n 5 Repo.md
           else
-            echo "repo.md not found"
+            echo "Repo.md not found"
             echo "Checking target directory:"
             ls -la target/ || echo "Target directory doesn't exist"
           fi
 
-      - name: Create dummy repo.md if missing
+      - name: Create dummy Repo.md if missing
         run: |
-          if [ ! -f "repo.md" ]; then
-            echo "Creating dummy repo.md file for testing"
-            echo "# Weekly Repository Update" > repo.md
-            echo "Generated on: $(date)" >> repo.md
-            echo "This is a test file created because the Java application did not generate one." >> repo.md
+          if [ ! -f "Repo.md" ]; then
+            echo "Creating dummy Repo.md file for testing"
+            echo "# Weekly Repository Update" > Repo.md
+            echo "Generated on: $(date)" >> Repo.md
+            echo "This is a test file created because the Java application did not generate one." >> Repo.md
           fi
 
       - name: Commit and push changes
@@ -83,8 +83,8 @@ jobs:
           to: ${{ secrets.EMAIL_TO }}
           from: GitHub Actions
           body: |
-            Please find attached the weekly repo.md update.
+            Please find attached the weekly Repo.md update.
             
             Note: This file was automatically generated because the Java application did not produce one.
-          attachments: repo.md
+          attachments: Repo.md
           secure: true
