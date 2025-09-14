@@ -47,7 +47,7 @@ jobs:
           username: ${{ secrets.QQ_EMAIL }}
           password: ${{ secrets.QQ_EMAIL_PASSWORD }}
           subject: 'Weekly Java Update - $(date +%Y-%m-%d)'
-          to: ${{ secrets.TO_EMAIL }}
+          to: ${{ secrets.EMAIL_TO }}
           from: GitHub Actions
           body: 'Please find attached the weekly repo.md update.'
           attachments: repo.md
