@@ -78,9 +78,9 @@ jobs:
           server_address: smtp.qq.com
           server_port: 465
           username: ${{ secrets.QQ_EMAIL }}
-          password: ${{ secrets.QQ_EMAIL_PASSWORD }}
+          password: ${{ secrets.QQ_EMAIL_AUTHORIZATION_CODE }}
           subject: 'Weekly Java Update'
-          to: ${{ secrets.TO_EMAIL }}
+          to: ${{ secrets.EMAIL_TO }}
           from: GitHub Actions
           body: |
             Please find attached the weekly repo.md update.
