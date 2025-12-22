@@ -1,5 +1,9 @@
 # ZCCtt Starred Repositories
 
+- [CloudFlareAssistant](https://github.com/a422015028/CloudFlareAssistant)	[cloudflare android kotlin mvvm material-design workers dns-management r2-storage]
+- [IP-Camera](https://github.com/BalioFVFX/IP-Camera)	[Android app that turns your device into an IP Camera]
+- [mpv-android-anime4k](https://github.com/azxcvn/mpv-android-anime4k)	[这是一个基于MPV播放器，支持Anime4K超分功能等多功能的安卓本地播放器，更多信息请看readme文件。This is a multifunctional Android local player based on MPV player, supporting Anime4K upscaling and more. For more information, please see the readme file.]
+- [tvbox_config](https://github.com/LuckySe7ens/tvbox_config)	[No description available.]
 - [sublink-worker](https://github.com/7Sageer/sublink-worker)	[One Worker, All Subscriptions]
 - [stallTCP1.3V1](https://github.com/xtgm/stallTCP1.3V1)	[天诚技术交流群-----------------------stallTCP1.3专属后台版]
 - [bv](https://github.com/Frost819/bv)	[哔哩哔哩 的第三方 Android TV 应用 BV 的个人修改版]
@@ -96,7 +100,3 @@
 - [Animeko-Source](https://github.com/saber-yz/Animeko-Source)	[Animeko订阅源自用]
 - [TidyMark](https://github.com/PanHywel/TidyMark)	[TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and optional AI assistance. Detect broken bookmarks, auto-archive infrequently used ones, and enjoy New Tab navigation with access stats.]
 - [yuedu](https://github.com/Luoyacheng/yuedu)	[针对阅读3.0 制作的源和规则的相关仓库]
-- [rank-analysis](https://github.com/wnzzer/rank-analysis)	[基于Tauri 2 + Rust，构建的一个LOL 英雄联盟腾讯服战绩查询助手，创新式标签标记机制，一键分析的混子、牛马队友]
-- [lx-music-source](https://github.com/pdone/lx-music-source)	[洛雪音乐源]
-- [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)	[ehviewer，用爱发电，快乐前行]
-- [SaveAny-Bot](https://github.com/krau/SaveAny-Bot)	[Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.]
