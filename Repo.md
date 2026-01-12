@@ -1,5 +1,9 @@
 # ZCCtt Starred Repositories
 
+- [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)	[The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device. ]
+- [ChaiChaiEmbyTV](https://github.com/dh374374/ChaiChaiEmbyTV)	[Emby Android TV 客户端]
+- [bv](https://github.com/fantasytyx/bv)	[哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.]
+- [BiliTV](https://github.com/Hyper-Beast/BiliTV)	[一款基于Bilipai开发的哔哩哔哩TV版APP]
 - [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)	[Clash Meta/Mihomo（smart）内核的各种配置收集]
 - [MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)	[MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。]
 - [epg](https://github.com/suzukua/epg)	[IPTV EPG列表，电视节目单列表，7天回看，5天预告。每天至少更新两次，长期维护]
@@ -35,7 +39,7 @@
 - [OpenComic](https://github.com/ollm/OpenComic)	[Comic and Manga reader, written with Node.js and using Electron]
 - [bestip](https://github.com/qwer-search/bestip)	[No description available.]
 - [Windows-Manage-Tool](https://github.com/Zhu-junwei/Windows-Manage-Tool)	[一个批处理Windows管理小工具]
-- [BiliPai](https://github.com/jay3-yy/BiliPai)	[第三方B站客户端，BiliBili KanPai "( ゜- ゜)つロ 干杯~"）!]
+- [BiliPai](https://github.com/jay3-yy/BiliPai)	[原生、纯净、可扩展 —— 重新定义你的 B 站体验]
 - [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui)	[一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！]
 - [qm-music](https://github.com/chenqimiao/qm-music)	[🎧☁️ Your Private Music Service]
 - [tvbox](https://github.com/qist/tvbox)	[OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。]
@@ -96,7 +100,3 @@
 - [CatShare](https://github.com/kmod-midori/CatShare)	[类原生 & 海外设备，现已加入互传联盟。]
 - [breeze-shell](https://github.com/std-microblock/breeze-shell)	[An alternative Windows context menu, and more.]
 - [Sefirah-Android](https://github.com/shrimqy/Sefirah-Android)	[Phone link / KDE Connect alternative ]
-- [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-)	[雪藏HsFreezer是一款调度计算机资源的进程管理软件 and 游戏暂停冻结软件 and 老板键平替软件 and .....自定义软件)]
-- [vnite](https://github.com/ximu3/vnite)	[A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.]
-- [awesome-terminals](https://github.com/cdleon/awesome-terminals)	[Terminal Emulators]
-- [keymap](https://github.com/cataerogong/keymap)	[A very simple page to visualize keyboard shortcuts]
