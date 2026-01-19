@@ -1,5 +1,7 @@
 # ZCCtt Starred Repositories
 
+- [FlClash](https://github.com/chen08209/FlClash)	[A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.]
+- [miaomiaowu](https://github.com/Jimleerx/miaomiaowu)	[Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等]
 - [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)	[The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device. ]
 - [ChaiChaiEmbyTV](https://github.com/dh374374/ChaiChaiEmbyTV)	[Emby Android TV 客户端]
 - [bv](https://github.com/fantasytyx/bv)	[哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.]
@@ -64,7 +66,7 @@
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)	[🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...]
 - [dailycheckin](https://github.com/Sitoi/dailycheckin)	[基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜]
 - [lomo-docker](https://github.com/lomorage/lomo-docker)	[Lomorage Raspberry Pi docker image]
-- [ente](https://github.com/ente-io/ente)	[🔥 End-to-end encrypted cloud for everything.]
+- [ente](https://github.com/ente-io/ente)	[💚 End-to-end encrypted cloud for everything.]
 - [taosync](https://github.com/dr34m-cn/taosync)	[TaoSync是一个适用于OpenList v3+的自动化同步工具/Sync for OpenList/AList]
 - [docker-freefilesync](https://github.com/jlesage/docker-freefilesync)	[Docker container for FreeFileSync]
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox)	[文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）]
@@ -98,5 +100,3 @@
 - [bilibili-mpv-opener](https://github.com/Ezer015/bilibili-mpv-opener)	[Play Bilibili Video in MPV (Firefox / Chrome extension)]
 - [UnattendTool](https://github.com/dsx42/UnattendTool)	[Windows 自动安装应答文件 Unattend.xml 生成工具]
 - [CatShare](https://github.com/kmod-midori/CatShare)	[类原生 & 海外设备，现已加入互传联盟。]
-- [breeze-shell](https://github.com/std-microblock/breeze-shell)	[An alternative Windows context menu, and more.]
-- [Sefirah-Android](https://github.com/shrimqy/Sefirah-Android)	[Phone link / KDE Connect alternative ]
