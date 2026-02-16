@@ -1,6 +1,7 @@
 # ZCCtt Starred Repositories
 
-- [WebRPA](https://github.com/pmh1314520/WebRPA)	[一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。]
+- [iptv-spider-v2](https://github.com/gwjgoog/iptv-spider-v2)	[基于 FastAPI 和 Vue 3 的 IPTV 源码采集与自动检测工具。支持组播/单播扫描，具备实时运行日志监控与 Docker 一键部署功能。]
+- [WebRPA](https://github.com/pmh1314520/WebRPA)	[一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️]
 - [CORSAPI](https://github.com/SzeMeng76/CORSAPI)	[CORSAPI - API 代理转发服务]
 - [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)	[专业的IPTV频道列表管理工具，集频道扫描，频道列表有效性检测、播放、列表编辑于一体]
 - [FlutterIPTV](https://github.com/shnulaa/FlutterIPTV)	[Lotus IPTV是一款基于 Flutter 开发的现代化高性能 IPTV 播放器。它支持多平台无缝观看和分屏播放，专注于易用性和美观的界面设计。Lotus IPTV is a modern, high-performance IPTV player built with Flutter. It offers seamless multi-platform viewing with split-screen support, focusing on usability and aesthetics.]
@@ -17,7 +18,7 @@
 - [iptv-tool](https://github.com/taksssss/iptv-tool)	[IPTV工具箱， Docker🐳部署，支持EPG管理、直播源管理、台标管理，兼容DIYP/百川、超级直播及xmltv格式。]
 - [CloudFlareScan](https://github.com/xiaolin-007/CloudFlareScan)	[CloudFlare扫描器]
 - [web-to-app](https://github.com/shiahonb777/web-to-app)	[A native Android application that converts any website URL into a standalone Android App.]
-- [moemail](https://github.com/beilunyang/moemail)	[一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉]
+- [moemail](https://github.com/beilunyang/moemail)	[A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  ]
 - [FlClash](https://github.com/chen08209/FlClash)	[A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.]
 - [miaomiaowu](https://github.com/iluobei/miaomiaowu)	[Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点等]
 - [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)	[The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device. ]
@@ -99,4 +100,3 @@
 - [bili-sync](https://github.com/amtoaer/bili-sync)	[由 Rust & Tokio 驱动的哔哩哔哩同步工具]
 - [PrinterService](https://github.com/cp9no1/PrinterService)	[基于@a937750307 项目lan-printing的修改]
 - [stock](https://github.com/myhhub/stock)	[stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。]
-- [tts-tauri](https://github.com/zs1083339604/tts-tauri)	[使用Tauri开发的微软配音工具]
