@@ -1,5 +1,8 @@
 # ZCCtt Starred Repositories
 
+- [Fladder](https://github.com/DonutWare/Fladder)	[Fladder - A Simple Jellyfin frontend built on top of Flutter.]
+- [Exclave](https://github.com/dyhkwong/Exclave)	[Proxy client]
+- [FGBLH](https://github.com/cdlongbow/FGBLH)	[No description available.]
 - [iptv-spider-v2](https://github.com/gwjgoog/iptv-spider-v2)	[基于 FastAPI 和 Vue 3 的 IPTV 源码采集与自动检测工具。支持组播/单播扫描，具备实时运行日志监控与 Docker 一键部署功能。]
 - [WebRPA](https://github.com/pmh1314520/WebRPA)	[一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️]
 - [CORSAPI](https://github.com/SzeMeng76/CORSAPI)	[CORSAPI - API 代理转发服务]
@@ -11,7 +14,7 @@
 - [HMusic](https://github.com/hpcll/HMusic)	[HMusic - 智能音乐播放器，支持小米 AI 音箱直连模式]
 - [remotion](https://github.com/remotion-dev/remotion)	[🎥      Make videos programmatically with React]
 - [VidBee](https://github.com/nexmoe/VidBee)	[Download videos from almost any website worldwide]
-- [AionUi](https://github.com/iOfficeAI/AionUi)	[Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!]
+- [AionUi](https://github.com/iOfficeAI/AionUi)	[Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!]
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)	[一款免费开源的 Windows 系统重装工具]
 - [mytv-android](https://github.com/mytv-android/mytv-android)	[Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.]
 - [iptv-sources](https://github.com/vitter/iptv-sources)	[一个功能完整的IPTV直播源处理工具集，包含多种获取、测试、分组和优化IPTV频道源的专业工具。搜索探测和测速，包括udpxy和酒店源]
@@ -97,6 +100,3 @@
 - [Bangumi](https://github.com/czy0729/Bangumi)	[:electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android。]
 - [bilitv](https://github.com/kkkunny/bilitv)	[由flutter实现的TV版哔哩哔哩，类似于bbll和bilibilitv。]
 - [Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)	[A modern client built with Flutter and Rust, powered by Mihomo]
-- [bili-sync](https://github.com/amtoaer/bili-sync)	[由 Rust & Tokio 驱动的哔哩哔哩同步工具]
-- [PrinterService](https://github.com/cp9no1/PrinterService)	[基于@a937750307 项目lan-printing的修改]
-- [stock](https://github.com/myhhub/stock)	[stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。]
