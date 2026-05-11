@@ -1,5 +1,8 @@
 # ZCCtt Starred Repositories
 
+- [bili-music](https://github.com/AprDeci/bili-music)	[B站源的音乐app]
+- [venera](https://github.com/haukuen/venera)	[仅自用 | For personal use only]
+- [1Remote](https://github.com/1Remote/1Remote)	[One Remote Access Manager to Rule Them All]
 - [CFData-WEB](https://github.com/PoemMisty/CFData-WEB)	[CFData-Web 是一个基于 Go 开发的 Cloudflare IP 测试与筛选工具]
 - [efibooteditor](https://github.com/Neverous/efibooteditor)	[Boot Editor for (U)EFI based systems]
 - [ParticleMusic](https://github.com/AfalpHy/ParticleMusic)	[A cross-platform local music player based on Flutter]
@@ -49,7 +52,7 @@
 - [PiliNara](https://github.com/Starfallan/PiliNara)	[PiliPlus 的第三方Fork版本，做了一些自用改动]
 - [cc-compare](https://github.com/cxasm/cc-compare)	[一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。]
 - [SrcBox](https://github.com/CGG888/SrcBox)	[SrcBox 是一款专为 Windows 平台打造的高性能、现代化的 IPTV 播放器。  它基于强大的 libmpv 播放内核构建，结合 WPF 的现代化界面设计，为您带来流畅、稳定的直播观看体验。不仅支持 M3U 播放列表、EPG 电子节目单、回看等核心功能，还针对 IPTV 场景进行了深度优化（如 FCC 快速切台、UDP 组播优化），是您在 PC 上观看电视直播的理想选择。]
-- [Bismuth-Player](https://github.com/Eq52/Bismuth-Player)	[基于苹果CMS 的影视播放器]
+- [Bismuth-Player](https://github.com/Eq52/Bismuth-Player)	[基于苹果CMS 的影视播放器 注：官网版本滞后]
 - [GBL_Root_HyperCanoe](https://github.com/StevenWin818/GBL_Root_HyperCanoe)	[A Gbl_Root_Canoe extension for HyperOS: Bypassing region-mismatch locks and spoofing bootloader state via efisp patching.]
 - [box](https://github.com/boxproxy/box)	[安卓代理模块，使用方法看wiki]
 - [blbl](https://github.com/cat3399/blbl)	[一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5]
@@ -75,7 +78,7 @@
 - [Seelen-UI](https://github.com/eythaann/Seelen-UI)	[The Fully Customizable Desktop Environment for Windows 10/11.]
 - [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors)	[GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本]
 - [redViewer](https://github.com/jasoneri/redViewer)	[rV: A comic viewer. Why red?Take a look of logo🍅]
-- [ComicGUISpider](https://github.com/jasoneri/ComicGUISpider)	[支持拷贝漫画, Māngabz, 禁漫天堂, wnacg, exhentai, hitomi.la, h-comic , kemono, danbooru | i18n / pypi]
+- [ComicGUISpider](https://github.com/jasoneri/ComicGUISpider)	[拷贝漫画, Māngabz, jestful, 禁漫天堂, wnacg, exhentai, hitomi.la, h-comic , kemono, danbooru | i18n / pypi]
 - [Android-CamSwap-OpenSource](https://github.com/zensu357/Android-CamSwap-OpenSource)	[Android-CamSwap - Open Source Version 基于xposed的安卓虚拟摄像头app]
 - [oil-assist](https://github.com/cornradio/oil-assist)	[油耗助手，可以记录油耗、其他花费以及按照公里数提醒维保]
 - [go-music-dl](https://github.com/guohuiyuan/go-music-dl)	[一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005]
@@ -97,6 +100,3 @@
 - [TabulaV3](https://github.com/Doryoku1223/TabulaV3)	[Tabula V3 - 极简相册整理工具 | Tinder风格卡片交互，单手滑动整理照片。100%本地处理，免费无广告，隐私安全。]
 - [Fladder](https://github.com/DonutWare/Fladder)	[Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.]
 - [Exclave](https://github.com/dyhkwong/Exclave)	[Proxy client]
-- [FGBLH](https://github.com/cdlongbow/FGBLH)	[No description available.]
-- [iptv-spider-v2](https://github.com/gwjgoog/iptv-spider-v2)	[基于 FastAPI 和 Vue 3 的 IPTV 源码采集与自动检测工具。支持组播/单播扫描，具备实时运行日志监控与 Docker 一键部署功能。]
-- [WebRPA](https://github.com/pmh1314520/WebRPA)	[一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️]
