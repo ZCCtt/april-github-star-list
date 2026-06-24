@@ -6,6 +6,7 @@ import cn.hutool.http.Method;
 import cn.hutool.json.JSONArray;
 import cn.hutool.json.JSONUtil;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -42,11 +43,46 @@ public class Github {
         return JSONUtil.toBean(JSONUtil.parseObj(getHttpResponse(apiUrl).body()), Repository.class);
     }
 
+    /**
+     * 获取用户Star仓库列表（支持分页）
+     *
+     * @param username 用户名
+     * @return Star仓库列表
+     */
     public static List<Repository> getGithubStarList(String username) {
-        String apiUrl = "https://api.github.com/users/" + username + "/starred?per_page=1000";
-        JSONArray objects = JSONUtil.parseArray(getHttpResponse(apiUrl).body());
-        // Parse JSON response
-        return JSONUtil.toList(objects, Repository.class);
+        List<Repository> allRepositories = new ArrayList<>();
+        String apiUrl = "https://api.github.com/users/" + username + "/starred?per_page=100";
+        
+        while (apiUrl != null) {
+            HttpResponse response = getHttpResponse(apiUrl);
+            JSONArray objects = JSONUtil.parseArray(response.body());
+            allRepositories.addAll(JSONUtil.toList(objects, Repository.class));
+            
+            // 获取下一页的URL
+            apiUrl = getNextPageUrl(response.header("Link"));
+        }
+        
+        return allRepositories;
+    }
+
+    /**
+     * 从Link header中解析下一页的URL
+     *
+     * @param linkHeader Link header内容
+     * @return 下一页URL，如果没有则返回null
+     */
+    private static String getNextPageUrl(String linkHeader) {
+        if (linkHeader == null || linkHeader.isEmpty()) {
+            return null;
+        }
+        
+        String[] links = linkHeader.split(",");
+        for (String link : links) {
+            if (link.contains("rel=\"next\"")) {
+                return link.substring(link.indexOf("<") + 1, link.indexOf(">"));
+            }
+        }
+        return null;
     }
 
     /**
