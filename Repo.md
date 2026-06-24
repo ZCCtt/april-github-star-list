@@ -1,5 +1,6 @@
 # ZCCtt Starred Repositories
 
+- [LynMusic](https://github.com/wesley666/LynMusic)	[A cross-platform local music player for Windows, Linux,  Android, iOS, and macOS.]
 - [LunaTV-Mobile](https://github.com/djsevenx1/LunaTV-Mobile)	[LunaTV Mobile Flutter Client]
 - [linux-android](https://github.com/mayukh4/linux-android)	[A script that sets up linux on your anroid device via termux]
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)	[real time face swap and one-click video deepfake with only a single image]
@@ -44,7 +45,7 @@
 - [Breeze](https://github.com/deretame/Breeze)	[Breeze 是一款使用flutter构建的漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai，nhentai再漫画，拷贝漫画，NoyAcg，komiic，包子漫画，绅士漫画。]
 - [ECHO](https://github.com/Moekotori/ECHO)	[The Bit-Perfect Bridge to Your Sonic Multiverse.]
 - [BiliDownload](https://github.com/KafuuNeko/BiliDownload)	[Android Bilibili视频下载器]
-- [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter)	[全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client]
+- [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter)	[全平台将Bilibili缓存视频合并导出为mp4，支持android、windows(10以上)、linux、mac、harmony(仅2in1和PC)、ios，支持B站Android客户端缓存，支持B站Windows客户端缓存，支持B站Mac客户端缓存  Combine and export Bilibili cache files as MP4, support Android, Windows, Linux, Mac,Harmony,IOS, support Bilibili Android Windows Mac client cache]
 - [Ruto-GLM](https://github.com/iamr0s/Ruto-GLM)	[手机端 AutoGLM：无需电脑，真·后台全自动。 支持熄屏、同时多个任务并行，主屏操作互不干扰。（一个基于 AI 的 Android 自动化与多任务框架，开启无限可能。）]
 - [scrcpy](https://github.com/Genymobile/scrcpy)	[Display and control your Android device]
 - [BT](https://github.com/chinasoul/BT)	[Bilibili TV client]
@@ -99,4 +100,3 @@
 - [baihu-panel](https://github.com/engigu/baihu-panel)	[🐯轻量级定时任务管理系统，支持 Python, Node.js, Go, Rust, PHP 等所有主流语言的动态安装与多版本切换,，Docker/Compose 即用。A lightweight, high-performance cron panel built with Go & Vue 3.]
 - [PiliNara](https://github.com/Starfallan/PiliNara)	[PiliPlus 的第三方Fork版本，做了一些自用改动]
 - [cc-compare](https://github.com/cxasm/cc-compare)	[一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。]
-- [SrcBox](https://github.com/CGG888/SrcBox)	[SrcBox 是一款专为 Windows 平台打造的高性能、现代化的 IPTV 播放器。  它基于强大的 libmpv 播放内核构建，结合 WPF 的现代化界面设计，为您带来流畅、稳定的直播观看体验。不仅支持 M3U 播放列表、EPG 电子节目单、回看等核心功能，还针对 IPTV 场景进行了深度优化（如 FCC 快速切台、UDP 组播优化），是您在 PC 上观看电视直播的理想选择。]
